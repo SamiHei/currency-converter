@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "SamiHeikkinen 11/10/2019 13:17",
+	"super" : "PackageManifest",
+	"category" : "CurrencyConverter-Manifest",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ManifestCurrencyConverter",
+	"type" : "normal"
+}

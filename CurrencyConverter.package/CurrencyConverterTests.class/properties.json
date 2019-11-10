@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "SamiHeikkinen 11/10/2019 13:29",
+	"super" : "TestCase",
+	"category" : "CurrencyConverter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CurrencyConverterTests",
+	"type" : "normal"
+}

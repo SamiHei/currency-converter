@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "SamiHeikkinen 11/10/2019 12:47",
+	"super" : "Object",
+	"category" : "CurrencyConverter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"exRate"
+	],
+	"name" : "ExchangeRate",
+	"type" : "normal"
+}

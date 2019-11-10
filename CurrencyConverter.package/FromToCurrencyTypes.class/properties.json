@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "SamiHeikkinen 11/10/2019 12:48",
+	"super" : "Object",
+	"category" : "CurrencyConverter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fromCurrency",
+		"toCurrency"
+	],
+	"name" : "FromToCurrencyTypes",
+	"type" : "normal"
+}
