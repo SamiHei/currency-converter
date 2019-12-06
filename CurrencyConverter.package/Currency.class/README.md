@@ -1,4 +1,5 @@
-Basic type for currency.
+Basic class for currency.
 
-Its API is
--  amount currencyType
+Its API:s are
+- amount currencyType
+- addCurrency substractCurrency cconvertTo

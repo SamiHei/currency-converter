@@ -1,7 +1,7 @@
-Simple class to store currency type. Type is aString as for example 'USD' or 'EUR'
+Simple class to store currency type. Type is String as for example 'USD' or 'EUR'
 
 Its API is
-- type
+- type: String
 
 Valid types:
 'GBP' = British Pound

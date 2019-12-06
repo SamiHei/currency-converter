@@ -1,4 +1,5 @@
 Simple class to store 2 CurrencyTypes.
 
 Its API is
-- fromCurrency toCurrency
+- fromCurrency: CurrencyType toCurrency: CurrencyType
+- fromToBuildUrl 

@@ -2,6 +2,6 @@ accessing
 exchangeRate: anFromToCurrencyTypes
 	"Get exchange rates with base type"
 	| apiURL |
-	apiURL  := ApiURLBuilder new fromToBuildUrl: anFromToCurrencyTypes .
+	apiURL  := anFromToCurrencyTypes fromToBuildUrl .
 
 	^ exRate := ZnClient new get: apiURL .
